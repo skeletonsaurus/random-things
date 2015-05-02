@@ -8,4 +8,3 @@ from sys import argv
 category = argv[1]
 
 webbrowser.open_new("https://en.wikipedia.org/wiki/Special:RandomInCategory/"+ argv[1])
-
